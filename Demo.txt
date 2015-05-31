@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
 Initial Commit-develop branch edited-feature branch added
->>>>>>> origin/develop
